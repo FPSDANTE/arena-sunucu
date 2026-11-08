@@ -1,0 +1,9 @@
+{
+  "name": "arena-sunucu",
+  "version": "1.0.0",
+  "description": "Arena 1v1 eşleşme ve mesaj aktarma sunucusu",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" },
+  "engines": { "node": ">=18" }
+}
